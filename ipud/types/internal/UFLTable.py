@@ -1,0 +1,1 @@
+class UFLTable: # ultra-fast-lookup table
